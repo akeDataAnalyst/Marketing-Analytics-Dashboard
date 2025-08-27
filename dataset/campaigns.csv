@@ -1,0 +1,7 @@
+campaign_id,campaign_name,platform,cost,start_date,end_date
+1,Google_Search_Campaign_1,Google,15000,2024-01-01,2024-03-31
+2,Facebook_Ad_Set_2,Facebook,10000,2024-01-01,2024-03-31
+3,TikTok_Video_Ad_3,TikTok,8000,2024-01-05,2024-03-31
+4,Instagram_Influencer_4,Instagram,5000,2024-01-10,2024-03-31
+5,Organic,Organic,0,2024-01-01,2024-03-31
+6,Direct,Direct,0,2024-01-01,2024-03-31

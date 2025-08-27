@@ -1,0 +1,8 @@
+Deliverable 3: Audience Segmentation
+For this task, we will use RFM (Recency, Frequency, Monetary) analysis. This is a powerful marketing technique that segments customers based on their transactional behavior.
+
+Recency (R): How recently a customer made a purchase or engaged with the app. More recent customers are more likely to respond to a promotion.
+
+Frequency (F): How often a customer interacts with the app or makes a purchase. Frequent customers are more engaged and loyal.
+
+Monetary (M): How much money a customer has spent. High-spending customers are our most valuable.

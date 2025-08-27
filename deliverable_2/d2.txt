@@ -1,0 +1,17 @@
+Deliverable 2: Campaign Performance & ROI (SQL & Visualization)
+
+Task: Evaluate the effectiveness of different ad campaigns.
+
+What we'll do: Join the users and campaigns tables to calculate the Customer Acquisition Cost (CAC) for each campaign (total_cost / number_of_users_acquired). We'll also calculate Return on Ad Spend (ROAS) by looking at revenue generated from each campaign (we can simulate this based on user actions).
+
+Output: A Tableau or Power BI dashboard with visualizations of CAC and ROAS by campaign.
+
+Our goal is to use SQL to calculate two key metrics for each of our paid campaigns: Customer Acquisition Cost (CAC) and Return on Ad Spend (ROAS).
+
+Customer Acquisition Cost (CAC) measures how much it costs to acquire one new user through a specific campaign.
+CAC=
+fracTotalCampaignCostNumberofUsersAcquired
+
+Return on Ad Spend (ROAS) measures the revenue generated for every dollar spent on a campaign.
+ROAS=
+fracTotalRevenuefromCampaignTotalCampaignCost
