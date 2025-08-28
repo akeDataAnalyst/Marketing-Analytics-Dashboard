@@ -1,5 +1,1 @@
-Deliverable 1: User Path & Conversion Analysis (SQL)
 
-Task: Use SQL to analyze the user journey.
-
-What we'll do: Write queries to calculate the conversion rate from app install to a key event, like "first chapter read" or "first subscription." We'll break down these conversions by acquisition_channel to see which campaigns are performing best.
