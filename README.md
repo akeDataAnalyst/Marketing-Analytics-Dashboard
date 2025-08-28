@@ -12,13 +12,13 @@ In this initial phase, the core data was prepared using MySQL queries. Key deliv
 	Path & Conversion Analysis: Specific SQL was used to trace user behavior and calculate conversion rates, which are critical for understanding funnel performance.
 •	Data Aggregation: The results were aggregated and prepared for more complex analysis in the next phase.
 
-![MySQL](scre/scr_mysql.PNG)
-
 2. Data Transformation & Segmentation (Python)
 Following the initial MySQL analysis, Python was used for more complex data transformation that would be challenging to do with SQL alone. The key steps included:
 	RFM (Recency, Frequency, Monetary) Analysis: Users were segmented into groups like "Champions," "Loyalists," and "At Risk" based on their behavioral data.
 	ROAS (Return on Ad Spend) Calculation: A custom calculation was created to accurately measure the return on investment for each marketing channel, ensuring accuracy by handling repeated cost data.
 	Data Export: The final, prepared dataset was exported as a single CSV file, ready for visualization in Tableau.
+
+![MySQL](scre/scr_mysql.PNG)
 
 3. Dashboard Design & Visualization (Tableau)
 Using the cleaned and segmented data, an interactive and easy-to-use dashboard was built in Tableau. The dashboard focuses on three key areas:
