@@ -1,7 +1,7 @@
 # Marketing Analytics Dashboard: A Data-Driven Approach to User Acquisition & Segmentation
 This project demonstrates a complete marketing analytics workflow, from raw data to actionable business insights. The goal was to build an interactive dashboard to track Key Performance Indicators (KPIs), analyze channel performance, and segment the user base for a fictional app. The dashboard provides a single source of truth for marketing stakeholders to make data-driven decisions.
 
-[scre/tabluescre.PNG]
+![Tablueau Dashboard](scre/tabluescre.PNG)
 
 ## Project Phases
 
@@ -12,7 +12,7 @@ In this initial phase, the core data was prepared using MySQL queries. Key deliv
 •	Path & Conversion Analysis: Specific SQL was used to trace user behavior and calculate conversion rates, which are critical for understanding funnel performance.
 •	Data Aggregation: The results were aggregated and prepared for more complex analysis in the next phase.
 
-[MySQL](scre/scr_mysql.PNG)
+![MySQL](scre/scr_mysql.PNG)
 
 2. Data Transformation & Segmentation (Python)
 Following the initial MySQL analysis, Python was used for more complex data transformation that would be challenging to do with SQL alone. The key steps included:
