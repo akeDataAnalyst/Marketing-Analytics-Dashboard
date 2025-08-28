@@ -54,3 +54,5 @@ Based on the dashboard's KPIs, the following insights and recommendations have b
 •	**Python**: For advanced data transformation and segmentation.                                                                
 •	**Pandas & NumPy**: Essential libraries for data manipulation.                                                                
 •	**Tableau**: For dashboard design and data visualization.                                                                     
+
+[Tableau Interactive Dashboard](https://public.tableau.com/app/profile/aklilu.abera/viz/MarketingCampaignPerformanceReport/Dashboard1)
