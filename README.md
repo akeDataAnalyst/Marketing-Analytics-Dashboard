@@ -1,7 +1,7 @@
 # Marketing Analytics Dashboard: A Data-Driven Approach to User Acquisition & Segmentation
 This project demonstrates a complete marketing analytics workflow, from raw data to actionable business insights. The goal was to build an interactive dashboard to track Key Performance Indicators (KPIs), analyze channel performance, and segment the user base for a fictional app. The dashboard provides a single source of truth for marketing stakeholders to make data-driven decisions.
 
-[Tableau Dashboard](scre/tabluescre.PNG)
+[scre/tabluescre.PNG]
 
 ## Project Phases
 
