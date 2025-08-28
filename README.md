@@ -25,22 +25,22 @@ Using the cleaned and segmented data, an interactive and easy-to-use dashboard w
 ## Key Insights & Recommendations
 Based on the dashboard's KPIs, the following insights and recommendations have been identified:
 •	**Insight 1**: Instagram is the Most Profitable Channel.
-    o	Finding: Instagram has the highest Overall ROAS at 1.33, meaning it generates $1.33 for every $1.00 spent. This is a highly profitable channel and a key driver of revenue.
-    o	Recommendation: Increase investment in Instagram campaigns. Analyze the creative and targeting strategies used on this channel and replicate its success where possible.
+    o	*Finding*: Instagram has the highest Overall ROAS at 1.33, meaning it generates $1.33 for every $1.00 spent. This is a highly profitable channel and a key driver of revenue.
+    o	*Recommendation*: Increase investment in Instagram campaigns. Analyze the creative and targeting strategies used on this channel and replicate its success where possible.
 •	**Insight 2**: Facebook is Underperforming.
-    o	Finding: Facebook has the lowest Overall ROAS at 0.356, indicating a significant loss. It costs nearly three times as much to acquire revenue from Facebook as it does from Instagram.
-    o	Recommendation: Re-evaluate the Facebook strategy. Consider A/B testing new ad copy, visuals, and audience targeting. If performance doesn't improve, decrease or reallocate the budget.
+    o	*Finding*: Facebook has the lowest Overall ROAS at 0.356, indicating a significant loss. It costs nearly three times as much to acquire revenue from Facebook as it does from Instagram.
+    o	*Recommendation*: Re-evaluate the Facebook strategy. Consider A/B testing new ad copy, visuals, and audience targeting. If performance doesn't improve, decrease or reallocate the budget.
 •	**Insight 3**: High-Quality Organic Users.
-    o	Finding: The Organic channel has the highest Overall Conversion Rate at 87.5%. These users are highly engaged and valuable, generating a significant amount of revenue at no direct cost.
-    o	Recommendation: Focus on content marketing and SEO. Invest in strategies that naturally attract more organic traffic, as these users are a high-quality, zero-cost asset.
+    o	*Finding*: The Organic channel has the highest Overall Conversion Rate at 87.5%. These users are highly engaged and valuable, generating a significant amount of revenue at no direct cost.
+    o	*Recommendation*: Focus on content marketing and SEO. Invest in strategies that naturally attract more organic traffic, as these users are a high-quality, zero-cost asset.
 •	**Insight 4**: Overall Profitability is Neutral.
-    o	Finding: The Overall ROAS for all channels is 0.918, meaning the marketing efforts as a whole are close to breaking even. While some channels are profitable, the losses from others (like Facebook) are holding back overall performance.
-    o	Recommendation: Optimize for profitability. By reallocating budget from underperforming to high-performing channels, you can quickly turn the overall negative ROAS into a positive one.
+    o	*Finding*: The Overall ROAS for all channels is 0.918, meaning the marketing efforts as a whole are close to breaking even. While some channels are profitable, the losses from others (like Facebook) are holding back overall performance.
+    o	*Recommendation*: Optimize for profitability. By reallocating budget from underperforming to high-performing channels, you can quickly turn the overall negative ROAS into a positive one.
 
 **Technologies Used**
-•	MySQL: For initial data querying and aggregation.
-•	Python: For advanced data transformation and segmentation.
-•	Pandas & NumPy: Essential libraries for data manipulation.
-•	Tableau: For dashboard design and data visualization.
+•	**MySQL**: For initial data querying and aggregation.
+•	**Python**: For advanced data transformation and segmentation.
+•	**Pandas & NumPy**: Essential libraries for data manipulation.
+•	**Tableau**: For dashboard design and data visualization.
 
 
